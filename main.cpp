@@ -9,9 +9,10 @@
 #include <string>
 #include <vector>
 
+#define ALL(x) (x).begin(), (x).end()
 #define INF 1e9
-#define REP(i,n) for (int i = 0; i < (int)(n); ++i)
 #define LOG(x) cout << #x << " = " << (x) << endl
+#define REP(i, n) for (int i = 0; i < (int)(n); ++i)
 
 using namespace std;
 
