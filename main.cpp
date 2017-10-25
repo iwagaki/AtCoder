@@ -3,6 +3,7 @@
 #include <climits> // INT_MAX, LONG_MAX, LLONG_MAX, UINT_MAX, ULONG_MAX, ULLONG_MAX
 #include <cmath>
 #include <cstdint>
+#include <cstring> // memset
 #include <iostream>
 #include <map>
 #include <set>
